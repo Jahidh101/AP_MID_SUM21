@@ -1,0 +1,6 @@
+E:\8th Semister\Asp.net\classExercise\4_tier_webapi\Application\BEL\bin\Debug\BEL.dll
+E:\8th Semister\Asp.net\classExercise\4_tier_webapi\Application\BEL\bin\Debug\BEL.pdb
+E:\8th Semister\Asp.net\classExercise\4_tier_webapi\Application\BEL\obj\Debug\BEL.csprojAssemblyReference.cache
+E:\8th Semister\Asp.net\classExercise\4_tier_webapi\Application\BEL\obj\Debug\BEL.csproj.CoreCompileInputs.cache
+E:\8th Semister\Asp.net\classExercise\4_tier_webapi\Application\BEL\obj\Debug\BEL.dll
+E:\8th Semister\Asp.net\classExercise\4_tier_webapi\Application\BEL\obj\Debug\BEL.pdb

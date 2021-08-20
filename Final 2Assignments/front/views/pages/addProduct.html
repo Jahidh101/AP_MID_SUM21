@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<h2>Enter Product</h2>
+
+<form>
+  <input type="hidden" ng-model = "s.Id" value = "0"><br><br>
+  Product Catagory :<br>
+  <select ng-model="s.Category_Id">
+    <option value="">Select category</option>
+    <option ng-repeat = "d in departments" value="{{d.Id}}">{{d.Title}}</option>
+  </select><br><br>
+  Name: <br>
+  <input type="text" ng-model = "s.Name" ><br><br>
+  Quantity: <br>
+  <input type="text" ng-model = "s.Quantity" ><br><br>
+  Buying Price: <br>
+  <input type="text" ng-model = "s.bPrice" ><br><br>
+  Selling Price: <br>
+  <input type="text" ng-model = "s.sPrice" ><br><br>
+  User Id: <br>
+  <input type="text" ng-model = "s.User_Id" ><br><br>
+  Date: <br>
+  <input type="text" ng-model = "s.Date" ><br><br>
+
+  <input type="submit" ng-click = "addProduct(s)" value="Enter">
+</form>
+
+
+</body>
+</html>
