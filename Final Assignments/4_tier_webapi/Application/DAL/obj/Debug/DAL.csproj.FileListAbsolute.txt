@@ -1,0 +1,12 @@
+E:\8th Semister\Asp.net\classExercise\4_tier_webapi\Application\DAL\bin\Debug\DAL.dll.config
+E:\8th Semister\Asp.net\classExercise\4_tier_webapi\Application\DAL\bin\Debug\DAL.dll
+E:\8th Semister\Asp.net\classExercise\4_tier_webapi\Application\DAL\bin\Debug\DAL.pdb
+E:\8th Semister\Asp.net\classExercise\4_tier_webapi\Application\DAL\bin\Debug\EntityFramework.dll
+E:\8th Semister\Asp.net\classExercise\4_tier_webapi\Application\DAL\bin\Debug\EntityFramework.SqlServer.dll
+E:\8th Semister\Asp.net\classExercise\4_tier_webapi\Application\DAL\bin\Debug\EntityFramework.xml
+E:\8th Semister\Asp.net\classExercise\4_tier_webapi\Application\DAL\bin\Debug\EntityFramework.SqlServer.xml
+E:\8th Semister\Asp.net\classExercise\4_tier_webapi\Application\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+E:\8th Semister\Asp.net\classExercise\4_tier_webapi\Application\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+E:\8th Semister\Asp.net\classExercise\4_tier_webapi\Application\DAL\obj\Debug\DAL.csproj.CopyComplete
+E:\8th Semister\Asp.net\classExercise\4_tier_webapi\Application\DAL\obj\Debug\DAL.dll
+E:\8th Semister\Asp.net\classExercise\4_tier_webapi\Application\DAL\obj\Debug\DAL.pdb
